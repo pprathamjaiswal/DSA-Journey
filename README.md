@@ -31,7 +31,7 @@ I solve problems consistently and push solutions to GitHub to track my learning 
 
 ## 💻 Language Used
 
-- <Your Language Here> (e.g.,  C++ || Python || Javascript)
+- <Your Language Here>  C++ || Python || Javascript
 
 ---
 
