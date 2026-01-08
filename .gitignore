@@ -2,6 +2,21 @@
 *.exe
 *.out
 *.class
+*.o            # Object files
+*.obj          # Windows object files
+*.a            # Static library
+*.so           # Shared library
+*.dSYM/        # macOS debug folder
+
+# Ignore debug folders (macOS)
+*.dSYM/
+
+# Ignore build/output directories
+Patterns/output/
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
 
 # Ignore output folders
 Patterns/output/
