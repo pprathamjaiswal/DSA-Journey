@@ -1,3 +1,8 @@
+# Ignore compiled files
+*.exe
+*.out
+*.class
+
 # Python
 __pycache__/
 *.pyc
