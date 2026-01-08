@@ -3,6 +3,9 @@
 *.out
 *.class
 
+# Ignore output folders
+Patterns/output/
+
 # Python
 __pycache__/
 *.pyc
