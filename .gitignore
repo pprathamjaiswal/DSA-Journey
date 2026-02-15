@@ -13,6 +13,7 @@
 
 # Ignore build/output directories
 Patterns/output/
+Arrays/output/
 
 # Ignore IDE/editor folders
 .vscode/
